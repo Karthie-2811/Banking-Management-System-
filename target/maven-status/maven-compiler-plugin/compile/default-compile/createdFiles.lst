@@ -1,0 +1,11 @@
+BankServlets\DepositServlet.class
+Beans\BankUserBean.class
+Beans\TransactionBean.class
+BankServlets\UserLoginServlet.class
+BankServlets\SendMoneyServlet.class
+BankServlets\WithdrawlServlet.class
+BankServlets\UserRegistrationServlet.class
+DbDetails\CreateConnection.class
+BankServlets\TransactionHistoryServlet.class
+DbDetails\DbInfo.class
+DAO\BankDAO.class

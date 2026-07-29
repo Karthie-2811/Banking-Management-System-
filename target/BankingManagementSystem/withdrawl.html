@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Withdraw Money</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  body { background: linear-gradient(135deg, #0d47a1, #001f54); height: 100vh; display: flex; justify-content: center; align-items: center; font-family: 'Segoe UI', sans-serif; }
+  .card-box { width: 350px; border-radius: 20px; padding: 30px; background: white; box-shadow: 0 10px 30px rgba(0,0,0,0.3); }
+  .title { color: #c62828; font-weight: bold; text-align: center; margin-bottom: 20px; }
+  .btn-withdraw { background: #c62828; color: white; }
+  .btn-withdraw:hover { background: #b71c1c; }
+  .btn-back { border: 1px solid #0d47a1; color: #0d47a1; }
+  .btn-back:hover { background: #0d47a1; color: white; }
+</style>
+</head>
+<body>
+<div class="card-box">
+  <h4 class="title">Withdraw Money</h4>
+  <form action="WithdrawlServlet" method="post">
+    <div class="mb-3">
+      <label class="form-label">Enter Amount</label>
+      <input type="number" class="form-control" placeholder="₹ Enter amount" required name="amount">
+    </div>
+    <div class="d-grid gap-2">
+      <button type="submit" class="btn btn-withdraw">Withdraw</button>
+      <a href="home.jsp" class="btn btn-back">Back</a>
+    </div>
+  </form>
+</div>
+</body>
+</html>

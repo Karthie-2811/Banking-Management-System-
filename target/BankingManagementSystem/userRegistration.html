@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SBI Registration</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+  <style>
+    body { min-height: 100vh; margin: 0; font-family: 'Segoe UI', sans-serif; background: linear-gradient(135deg, #0d47a1, #1976d2, #42a5f5); display: flex; justify-content: center; align-items: center; }
+    .register-card { width: 420px; border-radius: 15px; background: #ffffff; box-shadow: 0 15px 40px rgba(0,0,0,0.25); padding: 30px; }
+    .bank-title { color: #0d47a1; font-weight: bold; }
+    .btn-register { background: #0d47a1; color: white; transition: 0.3s; }
+    .btn-register:hover { background: #1565c0; transform: scale(1.03); }
+    .btn-back { border: 1px solid #0d47a1; color: #0d47a1; }
+    .btn-back:hover { background: #0d47a1; color: white; }
+    .form-control:focus { border-color: #0d47a1; box-shadow: 0 0 5px rgba(13, 71, 161, 0.5); }
+  </style>
+</head>
+<body>
+  <div class="register-card">
+    <h4 class="bank-title text-center mb-4">State Bank of India</h4>
+    <form action="userRegisterServlet" method="post">
+      <div class="mb-3">
+        <label class="form-label">Username</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-person"></i></span>
+          <input type="text" class="form-control" placeholder="Enter username" required name="uname">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Full Name</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-person-badge"></i></span>
+          <input type="text" class="form-control" placeholder="Enter full name" required name="ufullname">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Password</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-lock"></i></span>
+          <input type="password" class="form-control" placeholder="Enter password" required name="upassword">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Aadhaar Number</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-credit-card"></i></span>
+          <input type="text" class="form-control" placeholder="Enter Aadhaar number" required name="adhar">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Phone Number</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-telephone"></i></span>
+          <input type="text" class="form-control" placeholder="Enter phone number" required name="phoneno">
+        </div>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Account Balance</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-cash-stack"></i></span>
+          <input type="number" class="form-control" placeholder="Enter initial balance" required name="accountbalance">
+        </div>
+      </div>
+      <div class="d-grid gap-2">
+        <button type="submit" class="btn btn-register">Register</button>
+        <a href="userLogin.html" class="btn btn-back">Back to Login</a>
+      </div>
+    </form>
+  </div>
+</body>
+</html>
