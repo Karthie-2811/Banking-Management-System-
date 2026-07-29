@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=200&section=header&text=Banking%20Management%20System&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Full-Stack%20Java%20Banking%20Web%20Application&descAlignY=58&descSize=18" width="100%"/>
@@ -7,19 +6,19 @@
 
 <br/>
 
-[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Jakarta](https://img.shields.io/badge/Jakarta-Servlets%20%26%20JSP-D91A21?style=for-the-badge&logo=eclipseide&logoColor=white)](https://jakarta.ee/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Tomcat](https://img.shields.io/badge/Tomcat-10.x-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
-[![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.oracle.com/java/)
+[![Jakarta](https://img.shields.io/badge/Jakarta-Servlets%20%26%20JSP-D91A21?style=for-the-badge\&logo=eclipseide\&logoColor=white)](https://jakarta.ee/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![Tomcat](https://img.shields.io/badge/Tomcat-10.x-F8DC75?style=for-the-badge\&logo=apachetomcat\&logoColor=black)](https://tomcat.apache.org/)
+[![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)](https://maven.apache.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/manojkumarr12121-jpg/BankingManagementSystem?style=social)
-![Forks](https://img.shields.io/github/forks/manojkumarr12121-jpg/BankingManagementSystem?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/manojkumarr12121-jpg/BankingManagementSystem?color=blueviolet&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/manojkumarr12121-jpg/BankingManagementSystem?color=orange&style=flat-square)
+![Stars](https://img.shields.io/github/stars/Karthie-2811/BankingManagementSystem?style=social)
+![Forks](https://img.shields.io/github/forks/Karthie-2811/BankingManagementSystem?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/Karthie-2811/BankingManagementSystem?color=blueviolet\&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Karthie-2811/BankingManagementSystem?color=orange\&style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
@@ -33,26 +32,26 @@
 <tr>
 <td>
 
-- [✨ Features](#-features)
-- [🧰 Tech Stack](#-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [✅ Prerequisites](#-prerequisites)
+* [✨ Features](#-features)
+* [🧰 Tech Stack](#-tech-stack)
+* [📁 Project Structure](#-project-structure)
+* [✅ Prerequisites](#-prerequisites)
 
 </td>
 <td>
 
-- [🚀 Getting Started](#-getting-started)
-- [🌐 Application Routes](#-application-routes)
-- [🗄️ Database Schema](#️-database-schema)
-- [🏗️ Architecture](#️-architecture)
+* [🚀 Getting Started](#-getting-started)
+* [🌐 Application Routes](#-application-routes)
+* [🗄️ Database Schema](#️-database-schema)
+* [🏗️ Architecture](#️-architecture)
 
 </td>
 <td>
 
-- [🖼️ Screenshots](#️-screenshots)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👤 Author](#-author)
+* [🖼️ Screenshots](#️-screenshots)
+* [🤝 Contributing](#-contributing)
+* [📄 License](#-license)
+* [👤 Author](#-author)
 
 </td>
 </tr>
@@ -64,14 +63,14 @@
 
 <div align="center">
 
-| 🔐 | 🔑 | 🏠 | 💰 |
-|:---:|:---:|:---:|:---:|
-| **User Registration** | **Secure Login** | **Dashboard** | **Check Balance** |
+|                   🔐                  |                 🔑                 |                🏠               |            💰            |
+| :-----------------------------------: | :--------------------------------: | :-----------------------------: | :----------------------: |
+|         **User Registration**         |          **Secure Login**          |          **Dashboard**          |     **Check Balance**    |
 | Auto-generated 7-digit account number | Username & password authentication | Quick access to every operation | Real-time balance lookup |
 
-| 💵 | 💸 | 🔄 | 📜 |
-|:---:|:---:|:---:|:---:|
-| **Deposit Money** | **Withdraw Money** | **Send Money** | **Transaction History** |
+|          💵         |           💸          |            🔄            |            📜            |
+| :-----------------: | :-------------------: | :----------------------: | :----------------------: |
+|  **Deposit Money**  |   **Withdraw Money**  |      **Send Money**      |  **Transaction History** |
 | Add funds instantly | Withdraw from account | Transfer to another user | Full log with timestamps |
 
 </div>
@@ -89,14 +88,14 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 
-| Layer | Technology |
-|:--|:--|
-| 🎨 **Frontend** | HTML5, JSP, Bootstrap 5 |
-| ⚙️ **Backend** | Java, Jakarta Servlets |
-| 🔗 **Data Access** | JDBC, DAO Design Pattern |
-| 🗄️ **Database** | MySQL 8.x |
-| 📦 **Build Tool** | Maven |
-| 🖥️ **Server** | Apache Tomcat 10.x (Jakarta EE) |
+| Layer              | Technology                      |
+| :----------------- | :------------------------------ |
+| 🎨 **Frontend**    | HTML5, JSP, Bootstrap 5         |
+| ⚙️ **Backend**     | Java, Jakarta Servlets          |
+| 🔗 **Data Access** | JDBC, DAO Design Pattern        |
+| 🗄️ **Database**   | MySQL 8.x                       |
+| 📦 **Build Tool**  | Maven                           |
+| 🖥️ **Server**     | Apache Tomcat 10.x (Jakarta EE) |
 
 </div>
 
@@ -104,24 +103,28 @@
 
 ## 📁 Project Structure
 
-```
+```text
 BankingManagementSystem/
-├── 📄 pom.xml                          # Maven build configuration
-├── 🗄️ database_setup.sql               # Database & table creation script
+├── 📄 pom.xml
+├── 🗄️ database_setup.sql
 ├── 📘 README.md
 └── 📂 src/main/
     ├── ☕ java/
-    │   ├── Beans/               → BankUserBean, TransactionBean
-    │   ├── DAO/                 → BankDAO (all DB operations)
-    │   ├── DbDetails/           → DbInfo, CreateConnection
-    │   └── BankServlets/        → 6 servlets (Login, Register, Deposit,
-    │                              Withdraw, SendMoney, TransactionHistory)
+    │   ├── Beans/
+    │   ├── DAO/
+    │   ├── DbDetails/
+    │   └── BankServlets/
     └── 🌐 webapp/
         ├── WEB-INF/web.xml
-        ├── userLogin.html · userRegistration.html
-        ├── home.jsp · balance.jsp · deposit.jsp
-        ├── withdrawl.html · sendmoney.html
-        └── transactionHistory.jsp · msg.jsp
+        ├── userLogin.html
+        ├── userRegistration.html
+        ├── home.jsp
+        ├── balance.jsp
+        ├── deposit.jsp
+        ├── withdrawl.html
+        ├── sendmoney.html
+        ├── transactionHistory.jsp
+        └── msg.jsp
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:42A5F5,100:0D47A1&height=4&width=100%"/>
@@ -130,12 +133,12 @@ BankingManagementSystem/
 
 <div align="center">
 
-| Tool | Badge | Required Version |
-|:--|:--:|:--|
-| ☕ Java JDK | ![Java](https://img.shields.io/badge/-17+-ED8B00?logo=openjdk&logoColor=white) | 17 or higher |
-| 📦 Apache Maven | ![Maven](https://img.shields.io/badge/-3.6+-C71A36?logo=apachemaven&logoColor=white) | 3.6+ |
-| 🐱 Apache Tomcat | ![Tomcat](https://img.shields.io/badge/-10.x-F8DC75?logo=apachetomcat&logoColor=black) | 10.x *(Tomcat 9 will NOT work)* |
-| 🐬 MySQL | ![MySQL](https://img.shields.io/badge/-8.x-4479A1?logo=mysql&logoColor=white) | 8.x |
+| Tool             | Required Version |
+| :--------------- | :--------------- |
+| ☕ Java JDK       | 17 or higher     |
+| 📦 Apache Maven  | 3.6+             |
+| 🐱 Apache Tomcat | 10.x             |
+| 🐬 MySQL         | 8.x              |
 
 </div>
 
@@ -144,31 +147,42 @@ BankingManagementSystem/
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
+
 ```bash
-git clone https://github.com/manojkumarr12121-jpg/BankingManagementSystem.git
+git clone https://github.com/Karthie-2811/BankingManagementSystem.git
 cd BankingManagementSystem
 ```
 
 ### 2️⃣ Set up the database
+
 ```sql
 source database_setup.sql;
 ```
-> Creates the `advjavamorning2` database with `bankuser` and `transactionhistory` tables.
+
+> Creates the `advjavamorning2` database with the required tables.
 
 ### 3️⃣ Configure database credentials
-Edit `src/main/java/DbDetails/DbInfo.java`:
+
+Edit:
+
+```text
+src/main/java/DbDetails/DbInfo.java
+```
+
 ```java
-String uname    = "root";
+String uname = "root";
 String password = "your_mysql_password";
-String url      = "jdbc:mysql://localhost:3306/advjavamorning2";
+String url = "jdbc:mysql://localhost:3306/advjavamorning2";
 ```
 
 ### 4️⃣ Build the project
+
 ```bash
 mvn clean package
 ```
 
 ### 5️⃣ Deploy to Tomcat
+
 ```bash
 # Windows
 bin\startup.bat
@@ -178,7 +192,8 @@ bin/startup.sh
 ```
 
 ### 6️⃣ Launch 🎉
-```
+
+```text
 http://localhost:8080/BankingManagementSystem/
 ```
 
@@ -188,62 +203,50 @@ http://localhost:8080/BankingManagementSystem/
 
 <div align="center">
 
-| Page | Route |
-|:--|:--|
-| 🔑 Login | `/userLogin.html` |
-| 📝 Register | `/userRegistration.html` |
-| 🏠 Dashboard | `/home.jsp` |
-| 💰 Balance | `/balance.jsp` |
-| 💵 Deposit | `/deposit.jsp` |
-| 💸 Withdraw | `/withdrawl.html` |
-| 🔄 Send Money | `/sendmoney.html` |
+| Page                   | Route                     |
+| :--------------------- | :------------------------ |
+| 🔑 Login               | `/userLogin.html`         |
+| 📝 Register            | `/userRegistration.html`  |
+| 🏠 Dashboard           | `/home.jsp`               |
+| 💰 Balance             | `/balance.jsp`            |
+| 💵 Deposit             | `/deposit.jsp`            |
+| 💸 Withdraw            | `/withdrawl.html`         |
+| 🔄 Send Money          | `/sendmoney.html`         |
 | 📜 Transaction History | `/transactionHistory.jsp` |
 
 </div>
-
-> 💡 **Tip:** Always start at `userLogin.html` and navigate through the app's own links — several pages depend on an active login session.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:42A5F5,100:0D47A1&height=4&width=100%"/>
 
 ## 🗄️ Database Schema
 
-<details>
-<summary>🧾 <b>bankuser table</b> — click to expand</summary>
-<br/>
+### 🧾 `bankuser` Table
 
-| Column | Type | Description |
-|:--|:--|:--|
-| `uname` | VARCHAR(50) 🔑 PK | Username |
-| `ufullname` | VARCHAR(100) | Full name |
-| `upassword` | VARCHAR(50) | Password |
-| `adhar` | BIGINT | Aadhaar number |
-| `phoneno` | BIGINT | Phone number |
-| `accountno` | BIGINT 🔒 UNIQUE | Auto-generated account number |
-| `accountbalance` | DOUBLE | Current balance |
+| Column           | Type         | Description     |
+| :--------------- | :----------- | :-------------- |
+| `uname`          | VARCHAR(50)  | Username        |
+| `ufullname`      | VARCHAR(100) | Full name       |
+| `upassword`      | VARCHAR(50)  | Password        |
+| `adhar`          | BIGINT       | Aadhaar number  |
+| `phoneno`        | BIGINT       | Phone number    |
+| `accountno`      | BIGINT       | Account number  |
+| `accountbalance` | DOUBLE       | Current balance |
 
-</details>
+### 🧾 `transactionhistory` Table
 
-<details>
-<summary>🧾 <b>transactionhistory table</b> — click to expand</summary>
-<br/>
-
-| Column | Type | Description |
-|:--|:--|:--|
-| `txnid` | BIGINT 🔑 PK, AUTO_INCREMENT | Transaction ID |
-| `uname` | VARCHAR(50) 🔗 FK | Linked user |
-| `txntype` | VARCHAR(20) | Deposit / Withdraw / Transfer |
-| `amount` | DOUBLE | Transaction amount |
-| `balanceafter` | DOUBLE | Balance after transaction |
-| `description` | VARCHAR(150) | Extra details |
-| `txndate` | DATETIME | Timestamp (auto-set) |
-
-</details>
+| Column         | Type         | Description               |
+| :------------- | :----------- | :------------------------ |
+| `txnid`        | BIGINT       | Transaction ID            |
+| `uname`        | VARCHAR(50)  | Linked user               |
+| `txntype`      | VARCHAR(20)  | Transaction type          |
+| `amount`       | DOUBLE       | Transaction amount        |
+| `balanceafter` | DOUBLE       | Balance after transaction |
+| `description`  | VARCHAR(150) | Transaction details       |
+| `txndate`      | DATETIME     | Transaction date and time |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:42A5F5,100:0D47A1&height=4&width=100%"/>
 
 ## 🏗️ Architecture
-
-<div align="center">
 
 ```mermaid
 graph LR
@@ -253,16 +256,9 @@ graph LR
     D -->|Result Set| C
     C -->|Data| B
     B -->|Response| A
-
-    style A fill:#42A5F5,stroke:#0D47A1,color:#fff
-    style B fill:#1976D2,stroke:#0D47A1,color:#fff
-    style C fill:#0D47A1,stroke:#08306B,color:#fff
-    style D fill:#4479A1,stroke:#08306B,color:#fff
 ```
 
-</div>
-
-A clean, layered MVC-style architecture — presentation, business logic, and data access are fully separated.
+A clean MVC-style architecture separates the presentation, business logic, and database layers.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:42A5F5,100:0D47A1&height=4&width=100%"/>
 
@@ -270,17 +266,15 @@ A clean, layered MVC-style architecture — presentation, business logic, and da
 
 <div align="center">
 
-| Login Page | Registration Page |
-|:--:|:--:|
+|       Login Page      |   Registration Page   |
+| :-------------------: | :-------------------: |
 | *Add screenshot here* | *Add screenshot here* |
 
-| Dashboard | Transaction History |
-|:--:|:--:|
+|       Dashboard       |  Transaction History  |
+| :-------------------: | :-------------------: |
 | *Add screenshot here* | *Add screenshot here* |
 
 </div>
-
-> 📸 Replace the placeholders above with real screenshots — drag & drop images into the GitHub README editor and it auto-generates the image links.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:42A5F5,100:0D47A1&height=4&width=100%"/>
 
@@ -290,9 +284,9 @@ Contributions, issues, and feature requests are welcome!
 
 ```bash
 1. Fork the project
-2. Create your feature branch   → git checkout -b feature/amazing-feature
-3. Commit your changes          → git commit -m "Add amazing feature"
-4. Push to the branch           → git push origin feature/amazing-feature
+2. Create a feature branch
+3. Commit your changes
+4. Push the branch
 5. Open a Pull Request
 ```
 
@@ -300,7 +294,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-Licensed under the **MIT License** — free to use, modify, and distribute.
+Licensed under the **MIT License**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:42A5F5,100:0D47A1&height=4&width=100%"/>
 
@@ -308,19 +302,14 @@ Licensed under the **MIT License** — free to use, modify, and distribute.
 
 <div align="center">
 
-### Manoj Kumar
+# **KARTHI E**
 
-[![GitHub](https://img.shields.io/badge/GitHub-manojkumarr12121--jpg-181717?style=for-the-badge&logo=github)](https://github.com/manojkumarr12121-jpg)
-[![LinkedIn](www.linkedin.com/in/manojkumarr-dev)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Karthie--2811-181717?style=for-the-badge\&logo=github)](https://github.com/Karthie-2811)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KARTHI%20E-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karthie-dev)
 
 ⭐ **If you found this project useful, consider giving it a star!** ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
-
