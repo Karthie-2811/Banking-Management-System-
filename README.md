@@ -1,19 +1,28 @@
 <div align="center">
 
-# 🏦 Banking Management System
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f857a6&height=220&section=header&text=Banking%20Management%20System&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Login%20%E2%80%A2%20Register%20%E2%80%A2%20Deposit%20%E2%80%A2%20Withdraw%20%E2%80%A2%20Transfer%20%E2%80%A2%20Track&descAlignY=55&descSize=18" width="100%"/>
 
-### *A full-stack Java web application for secure, everyday digital banking*
+<a href="https://github.com/Karthie-2811/Banking-Management-System-/stargazers"><img src="https://img.shields.io/github/stars/Karthie-2811/Banking-Management-System-?style=for-the-badge&color=FFD700&logo=github&logoColor=white&labelColor=1a1a2e" alt="Stars"/></a>
+<a href="https://github.com/Karthie-2811/Banking-Management-System-/network/members"><img src="https://img.shields.io/github/forks/Karthie-2811/Banking-Management-System-?style=for-the-badge&color=00E5FF&logo=github&logoColor=white&labelColor=1a1a2e" alt="Forks"/></a>
+<a href="https://github.com/Karthie-2811/Banking-Management-System-/issues"><img src="https://img.shields.io/github/issues/Karthie-2811/Banking-Management-System-?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white&labelColor=1a1a2e" alt="Issues"/></a>
+<img src="https://img.shields.io/github/last-commit/Karthie-2811/Banking-Management-System-?style=for-the-badge&color=32CD32&logo=git&logoColor=white&labelColor=1a1a2e" alt="Last Commit"/>
+
+<br/>
 
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Tomcat](https://img.shields.io/badge/Tomcat-10.x-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JSP](https://img.shields.io/badge/JSP-Servlets-orange?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
+[![JSP](https://img.shields.io/badge/JSP-Servlets-6DB33F?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)](#-license)
 
-*Login • Register • Deposit • Withdraw • Transfer • Track — all from one clean dashboard.*
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=A+full-stack+Java+EE+banking+simulation;Servlets+%2B+JSP+%2B+JDBC+%2B+MySQL;Register+%E2%86%92+Login+%E2%86%92+Bank+with+confidence" alt="Typing SVG"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
@@ -53,14 +62,27 @@
 
 ## 🧱 Tech Stack
 
-| Layer                | Technology                                   |
-|----------------------|-----------------------------------------------|
-| 🖥️ **Frontend**       | HTML, JSP                                     |
-| ⚙️ **Backend**        | Java Servlets (Jakarta EE)                    |
-| 🗄️ **Database**       | MySQL 8.x                                     |
-| 🔌 **DB Connectivity** | JDBC (MySQL Connector/J)                     |
-| 📦 **Build Tool**     | Apache Maven                                  |
-| 🚀 **Server**         | Apache Tomcat 10.x                            |
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-6DB33F?style=flat-square&logo=apachetomcat&logoColor=white)
+![Java](https://img.shields.io/badge/Java_Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-0072BC?style=flat-square&logo=eclipse&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8.x-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat_10.x-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+
+</div>
+
+| Layer                   | Technology                     | Purpose                                  |
+|--------------------------|---------------------------------|-------------------------------------------|
+| 🖥️ **Frontend**          | 🟧 HTML &nbsp;+&nbsp; 🟩 JSP    | Login/registration pages & dashboard views |
+| ⚙️ **Backend**           | ☕ Java Servlets (Jakarta EE)   | Business logic & request routing          |
+| 🔌 **DB Connectivity**   | 🔵 JDBC                         | Bridges Java code and MySQL               |
+| 🗄️ **Database**          | 🐬 MySQL 8.x                    | Stores users & transaction history        |
+| 📦 **Build Tool**        | 🟥 Apache Maven                 | Dependency management & WAR packaging     |
+| 🚀 **App Server**        | 🟡 Apache Tomcat 10.x           | Hosts & serves the web application        |
 
 ---
 
@@ -250,12 +272,13 @@ Contributions, issues, and feature requests are welcome!
 
 This project is available under the **MIT License**. Feel free to use, modify, and distribute it for learning purposes.
 
----
-
 <div align="center">
 
 ### 💙 Built with Java, JSP & a passion for clean banking UX
 
-⭐ **If you found this project useful, consider giving it a star!** ⭐
+[![Star this repo](https://img.shields.io/badge/⭐-Star_this_repo-FFD700?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Karthie-2811/Banking-Management-System-/stargazers)
+[![Fork this repo](https://img.shields.io/badge/🍴-Fork_this_repo-00E5FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Karthie-2811/Banking-Management-System-/fork)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:764ba2,100:667eea&height=120&section=footer" width="100%"/>
 
 </div>
